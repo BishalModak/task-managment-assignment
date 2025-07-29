@@ -9,7 +9,7 @@ import '../controllers/auth_controller.dart';
 import '../widgets/centered_circular_progress_indicator.dart';
 import '../widgets/screen_background.dart';
 import '../widgets/snack_bar_message.dart';
-import 'fp_ur_email.dart';
+import 'reset_password.dart';
 import 'main_nav_bar_screen.dart';
 
 class SignInScreen extends StatefulWidget {

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:taskmanager/ui/screen/add_new_task_screen.dart';
-import 'package:taskmanager/ui/screen/fp_ur_email.dart';
+import 'package:taskmanager/ui/screen/reset_password.dart';
 import 'package:taskmanager/ui/screen/main_nav_bar_screen.dart';
 import 'package:taskmanager/ui/screen/pin_verification_screen.dart';
 import 'package:taskmanager/ui/screen/set_password.dart';
